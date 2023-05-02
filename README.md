@@ -2,6 +2,7 @@
 
 Este projeto consiste em um player de áudio desenvolvido com ReactJS. Ele permite a reprodução de músicas a partir de uma lista pré-definida e inclui funcionalidades 
 como play/pause, controle de volume, avançar e retroceder faixas, além de exibir informações sobre a faixa atual, como título e artista.
+[Clique aqui para ver!](https://player-rock-music.netlify.app/)
 
 ## Como utilizar
 Para utilizar este player, basta baixar ou clonar o repositório em sua máquina local e rodar o comando **npm install** para 
